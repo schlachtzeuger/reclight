@@ -1,0 +1,17 @@
+Windows MIDI driver development
+- https://docs.microsoft.com/en-us/windows-hardware/drivers/audio/midi-port-driver
+
+Windows driver development
+- https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit
+
+
+MAC MIDI driver development
+- tbd
+
+USB/MIDI chip
+- http://www.instructables.com/id/USB-MIDI-Controller/
+  (but USnooBie is not available anymore)
+- https://ask.audio/articles/how-to-build-a-simple-diy-usb-midi-controller-using-teensy
+  using Teensy (https://shop.boxtec.ch/teensy-usb-board-p-42714.html)
+- Livid Builder Jr (http://lividinstruments.com/products/builder/)
+  http://shop.boxtec.ch/livid-builder-brain-diy-midi-p-41913.html
