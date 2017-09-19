@@ -15,3 +15,7 @@ USB/MIDI chip
   using Teensy (https://shop.boxtec.ch/teensy-usb-board-p-42714.html)
 - Livid Builder Jr (http://lividinstruments.com/products/builder/)
   http://shop.boxtec.ch/livid-builder-brain-diy-midi-p-41913.html
+
+
+Mackie Control Commands
+- https://www.native-instruments.com/forum/threads/mackie-control-mcu-parameter-id-codes-template.266581/
